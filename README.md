@@ -50,8 +50,8 @@
 Склонировать репозиторий:
 
 ```bash
-git clone https://github.com/yourusername/custom-thread-pool.git
-cd custom-thread-pool
+git clone https://github.com/TheSerDragon/Custom_Thread_Pool.git
+cd Custom-Thread-Pool
 ```
 
 Собрать проект:
